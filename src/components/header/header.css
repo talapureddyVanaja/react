@@ -1,0 +1,35 @@
+
+.head{
+    display:inline-flex;
+    width:100%;
+    background-color:antiquewhite;
+}
+
+ul{
+    display:inline-flex;
+    list-style-type:none;
+    margin-left:450px;
+    text-align: left;
+}
+
+li{
+    text-align: right;
+    list-style-type:none;
+    padding-left:20px;
+    margin-top:30px;
+    
+}
+
+
+.link{
+    
+    text-decoration:none;
+    color:rgb(8, 238, 238);
+}   
+.hover:hover{
+    transform: scale(1.5);
+   background-color: rgb(250, 249, 250); 
+}
+.ul menu{
+    text-align: right;
+}

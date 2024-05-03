@@ -15,7 +15,7 @@ function App() {
       <Router>
         <Header/>
         <Routes>
-            <Route path='/'  exact Component={Home}/>
+            <Route path='/react'  exact Component={Home}/>
             <Route path='about' exact Component={About}/>
             <Route path='service' exact Component={Service}/>
             <Route path='contact' exact Component={contact}/>

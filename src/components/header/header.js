@@ -14,7 +14,7 @@ function Header() {
      
       
         
-        <li className='hover'><Link to='/' className='link'>Home</Link></li>
+        <li className='hover'><Link to='/react' className='link'>Home</Link></li>
         <li className='hover'><Link to='about'className='link'>Product </Link></li>
         <li className='hover'><Link to='service'className='link'>Buy on </Link></li>
         <li className='hover'><Link to='contact'className='link'>Contact</Link></li>
